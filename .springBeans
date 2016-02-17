@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.6.4.201503051146-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+	</configs>
+	<autoconfigs>
+		<config>src/main/resources/spring/ctx-inspektr.xml</config>
+		<config>src/main/resources/spring/ctx-common-security-extend.xml</config>
+		<config>src/main/resources/spring/ctx-common-jmx.xml</config>
+		<config>src/main/resources/spring/ctx-module-org.xml</config>
+		<config>src/main/resources/spring/ctx.xml</config>
+		<config>src/main/resources/spring/ctx-module-store.xml</config>
+		<config>src/main/resources/spring/ctx-common-scheduler.xml</config>
+		<config>src/main/resources/spring/ctx-module-tenant.xml</config>
+		<config>src/main/resources/spring/ctx-module-activiti.xml</config>
+		<config>src/main/resources/spring/ctx-cache.xml</config>
+		<config>src/main/resources/spring/ctx-common-springmvc.xml</config>
+		<config>src/main/resources/spring/ctx-module-account.xml</config>
+		<config>src/main/resources/spring/ctx-common-hibernate.xml</config>
+		<config>src/main/resources/spring/ctx-common-subscribe.xml</config>
+		<config>src/main/resources/spring/ctx-common-security.xml</config>
+		<config>src/main/resources/spring/ctx-common-jdbc.xml</config>
+		<config>src/main/resources/spring/ctx-module-notification.xml</config>
+		<config>src/main/resources/spring/ctx-module-internal.xml</config>
+		<config>src/main/resources/spring/ctx-module-form.xml</config>
+		<config>src/main/resources/spring/ctx-module-process.xml</config>
+		<config>src/main/resources/spring/ctx-common-filter.xml</config>
+		<config>src/main/resources/spring/ctx-module-humantask.xml</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
